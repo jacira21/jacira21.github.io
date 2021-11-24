@@ -2,7 +2,7 @@
 
 ---
 ### Education
-# Studied at the CCRI on my Associates and Bachelors at URI 
+# Studied at the CCRI on my Associates in Civil Engineering  and Bachelors at URI in Civil Engineering with a minor in Enviromental Engineering 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
