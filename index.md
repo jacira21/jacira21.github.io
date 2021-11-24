@@ -2,17 +2,17 @@
 
 ---
 ### Education
-
+# Studied at the CCRI on my Associates and Bachelors at URI 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Work Experience
-
+# Worked at Rhode Island Hospital 
 
 ---
 ### Recent Projects
-
+# Working on research on use of activated  Ferrate in the drinking water treatment.
 
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
